@@ -14,7 +14,6 @@ const dispatch=useDispatch();
        id,
        title,
        price,
-       
    }))
 
   }
